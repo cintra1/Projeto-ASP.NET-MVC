@@ -1,4 +1,4 @@
-# Projeto da Trilha Bancos de Dados Relacionais e Não Relacionais com SQL Server e MongoDB
+# Projeto ASP.NET MVC com Entity Framework
 
 ## Contexto
 Criar uma aplicação CRUD com ASP.NET, integrado com Entity Framework para realizar operações direto no banco de dados e refletir nas páginas WEB.
